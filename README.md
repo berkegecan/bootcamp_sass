@@ -17,11 +17,11 @@ Techcareer.net Bootcamp süreci içerisinde, SASS kullanılarak bir site gelişt
 - Bootstrap V5 temelleri
 
  ### Proje İçinden Görüntüler
- ![Odev 3 Masaüstü-1](/assets/img/screenshots/screenshot-desktop-1.png)
- ![Odev 3 Masaüstü-2](/assets/img/screenshots/screenshot-desktop-2.png)
- ![Odev 3 Mobil-1](/assets/img/screenshots/screenshot-mobile-1.png)
- ![Odev 3 Mobil-2](/assets/img/screenshots/screenshot-mobile-2.png)
- ![Odev 3 Mobil-3](/assets/img/screenshots/screenshot-mobile-3.png)
+ ![Odev 3 Masaüstü-1](https://github.com/berkegecan/bootcamp_sass/blob/master/assets/img/screenshots/screenshot-desktop-1.PNG)
+ ![Odev 3 Masaüstü-2](https://github.com/berkegecan/bootcamp_sass/blob/master/assets/img/screenshots/screenshot-desktop-2.PNG)
+ ![Odev 3 Mobil-1](https://github.com/berkegecan/bootcamp_sass/blob/master/assets/img/screenshots/screenshot-mobile-1.PNG)
+ ![Odev 3 Mobil-2](https://github.com/berkegecan/bootcamp_sass/blob/master/assets/img/screenshots/screenshot-mobile-2.PNG)
+ ![Odev 3 Mobil-3](https://github.com/berkegecan/bootcamp_sass/blob/master/assets/img/screenshots/screenshot-mobile-3.PNG)
 
 ### Kullanılan Kütüphaneler
 
